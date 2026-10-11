@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static",
+      "config": { "maxAge": 31536000, "fallback": true }
+    }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "index.html" }
+  ]
+}

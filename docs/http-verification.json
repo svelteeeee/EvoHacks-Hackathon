@@ -1,0 +1,16 @@
+{
+  "demo_http_timings_ms": [
+    13.7,
+    23.46,
+    13.19,
+    9.14,
+    10.72,
+    8.59,
+    10.0,
+    8.93,
+    8.79
+  ],
+  "median_ms": 10.0,
+  "real_browser_checks": "pending",
+  "canvas_60fps_midrange_laptop": "not_measured"
+}

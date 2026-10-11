@@ -1,0 +1,1023 @@
+{
+  "id": "demo-cop28-fr",
+  "query": "COP28",
+  "language": "fr",
+  "mode": "demo",
+  "created_at": "2026-10-11T06:16:20.274137+00:00",
+  "countries": [
+    {
+      "country": "us",
+      "outlets": [
+        {
+          "article": {
+            "id": "dd313ea06e0e682a",
+            "country": "us",
+            "outlet": "CNBC",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbENGdFp3REJBekVtTHpJVFRKdndPeXFDNmxFUFJRWnl3NkxVenJVWUlUQU8yQmdERlc0R3RyQi1PNUxYYWhSOWdUT0l4NFFhM3BudFpwcjhPYXpDb1J2OHNRMnlYek5PbUFKT1BFV1B3ZUxWaThrbmtFbENlZWhpbWUzVTV6LWYwZXl2WdIBkgFBVV95cUxPYUdTOTc5ZFUtUTUteXoyRWJCMTIwVk51VHpCT1cxM1ZKTkhSdnJlejltcm44Qm1FbFVkNjVZQ2RYaGNaaUlRLUswTmd6NVloX1BwNXNkckZ5V1ZmNS1ablZsSEFvRHNETDd2SDZrenBDeGpEXzVhWjl5M2FDM1l1SjFod2lOWllPTi1mdTViRWlzUQ?oc=5",
+            "headline": "COP28 climate summit ends with deal to transition away from fossil fuels",
+            "text": "COP28 climate summit ends with deal to transition away from fossil fuels",
+            "language": "en",
+            "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28 climate summit ends with deal to transition away from fossil fuels",
+            "translated_text": "COP28 climate summit ends with deal to transition away from fossil fuels",
+            "key_claims": [
+              {
+                "text": "The summit concluded with an agreement to move away from fossil fuels.",
+                "quote": "COP28 climate summit ends with deal to transition away from fossil fuels"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "deal",
+                "explanation": "Suggests a positive, negotiated outcome and can frame the result as a success.",
+                "neutral": "agreement"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 30,
+                "quote": "COP28 climate summit ends with deal to transition away from fossil fuels",
+                "rationale": "The mention of a \"deal\" to shift energy sources implies economic implications for energy markets."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No explicit reference to security concerns in the excerpt."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not discuss impacts on people’s health or livelihoods."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 40,
+                "quote": "COP28 climate summit ends with deal to transition away from fossil fuels",
+                "rationale": "The phrase \"ends with deal\" highlights diplomatic negotiation among nations."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of responsibility or enforcement mechanisms."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No reference to technological or innovative solutions."
+              }
+            ],
+            "omitted": [
+              "Specific details about the terms of the deal, the timeline for transition, and which countries or industries are most affected."
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Two captured RSS headlines; cached Groq analysis"
+    },
+    {
+      "country": "gb",
+      "outlets": [
+        {
+          "article": {
+            "id": "6fdf96852cb202d1",
+            "country": "gb",
+            "outlet": "The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUNmeXFhcEtSd05pTXV1ZVVIckdHeXd0NW03N3VPNjJRZ01pdVItZURMNUd1TkVQa2FpWTNSWG9CWl9OMURPbjI1b0hhaWN6M3lteTJsTkJ2ZVdDQ0Z4RVdSOW12UWhtWU5oMGI5cXlDYUNEUFF4bmdBVFNrNndScms3M3BFeWdfZTlMb0U1VU9KT0EtQTR0RFRCS3ctZnB4eFZrMHBlY09xcndJeUdCTndKTkUxQQ?oc=5",
+            "headline": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+            "text": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+            "language": "en",
+            "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+            "translated_text": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+            "key_claims": [
+              {
+                "text": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+                "quote": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "landmark",
+                "explanation": "Frames the deal as exceptionally important, influencing perception of its significance",
+                "neutral": "significant"
+              },
+              {
+                "word": "transition away",
+                "explanation": "Suggests a positive shift away from fossil fuels, implying progress",
+                "neutral": "move away"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "celebratory",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 20,
+                "quote": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+                "rationale": "Highlights a shift in energy sources that will affect economic structures"
+              },
+              {
+                "theme": "security",
+                "score": 10,
+                "quote": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+                "rationale": "Implies changes to energy security through reduced fossil fuel reliance"
+              },
+              {
+                "theme": "human_cost",
+                "score": 5,
+                "quote": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+                "rationale": "Alludes to climate‑related human impacts that the transition aims to mitigate"
+              },
+              {
+                "theme": "diplomacy",
+                "score": 15,
+                "quote": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+                "rationale": "Reflects international cooperation achieved at the COP28 conference"
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of responsibility or enforcement mechanisms"
+              },
+              {
+                "theme": "innovation",
+                "score": 10,
+                "quote": "Cop28 landmark deal agreed to ‘transition away’ from fossil fuels",
+                "rationale": "Suggests development and adoption of cleaner technologies"
+              }
+            ],
+            "omitted": [
+              "Specific commitments made by participating countries",
+              "Details on how the transition will be implemented",
+              "Potential economic or social challenges of moving away from fossil fuels"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        },
+        {
+          "article": {
+            "id": "5b717f4f0d86f714",
+            "country": "gb",
+            "outlet": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PTnMxSnEwZy1aRi0xOG1QNllYT0U0VWJ6Q1U5eTExcDJEdWNKbTJFOXJmeURQSHZROWJYXzJrOXZhSGExOVJOdTNVb0lkZlRTclMyOGlYVkR0dHZ5S25KWUtmWQ?oc=5",
+            "headline": "COP28: Landmark summit takes direct aim at fossil fuels",
+            "text": "COP28: Landmark summit takes direct aim at fossil fuels",
+            "language": "en",
+            "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28: Landmark summit takes direct aim at fossil fuels",
+            "translated_text": "COP28: Landmark summit takes direct aim at fossil fuels",
+            "key_claims": [
+              {
+                "text": "The summit is described as a landmark event that directly targets fossil fuels.",
+                "quote": "COP28: Landmark summit takes direct aim at fossil fuels"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "Landmark",
+                "explanation": "Suggests the summit is historically significant and unusually important, framing it positively.",
+                "neutral": "Important"
+              },
+              {
+                "word": "direct aim",
+                "explanation": "Implies purposeful, aggressive targeting, which can convey confrontation.",
+                "neutral": "focus on"
+              },
+              {
+                "word": "fossil fuels",
+                "explanation": "While factual, the phrase is often used in debates to evoke environmental concerns.",
+                "neutral": "energy sources"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "critical",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 30,
+                "quote": "COP28: Landmark summit takes direct aim at fossil fuels",
+                "rationale": "The headline highlights a policy focus that could affect the fossil‑fuel‑driven economy."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No explicit reference to security issues in the excerpt."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of human impacts or suffering."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic negotiations or international relations are referenced."
+              },
+              {
+                "theme": "accountability",
+                "score": 20,
+                "quote": "COP28: Landmark summit takes direct aim at fossil fuels",
+                "rationale": "The phrase \"takes direct aim\" implies holding the fossil‑fuel sector accountable."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No reference to new technologies or innovation."
+              }
+            ],
+            "omitted": [
+              "Views of fossil‑fuel companies or industry representatives",
+              "Positions of host‑country officials or other UN member states",
+              "Details about specific policies or commitments being discussed"
+            ],
+            "confidence": 0.44
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Two captured RSS headlines; cached Groq analysis"
+    },
+    {
+      "country": "fr",
+      "outlets": [
+        {
+          "article": {
+            "id": "2b867fccfd79d482",
+            "country": "fr",
+            "outlet": "Réseau Action Climat",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcDR5MDd6ZXIwbFNxMGpSLVgxdGhIM1htVjNWX28yZ0p2bVRrMHhiYXVWbl9zWU0tMVJIM2ZlYjNQR3NnUVpQMjhjQnd6cUxrY2VJMWRaaDlxbkFYQlhTWWRwcnczZmt0THVFbDk5TFFjMGFhc1Vkd1FNenJBcWFXYzBwZER2Z09vR29qdUdBMWpqUDRjd3RpdHZSQXJhNVcxbDZwVkMwNkRQaHhwLVNxR3h0TDBpOElORE5ya0UxQ1Uwa09Kbk9wZ0xIbGFWS0RkVDZxUW0wbUpHUE0?oc=5",
+            "headline": "COP28 : Face à la réalité scientifique, les énergies fossiles pointées du doigt, mais des zones d'ombre persistantes",
+            "text": "COP28 : Face à la réalité scientifique, les énergies fossiles pointées du doigt, mais des zones d'ombre persistantes",
+            "language": "fr",
+            "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28: Facing scientific reality, fossil fuels pointed at the finger, but lingering shadow zones persist",
+            "translated_text": "COP28: Facing scientific reality, fossil fuels pointed at the finger, but lingering shadow zones persist",
+            "key_claims": [
+              {
+                "text": "The article claims that at COP28, fossil fuels are being singled out while unresolved issues remain.",
+                "quote": "COP28 : Face à la réalité scientifique, les énergies fossiles pointées du doigt, mais des zones d'ombre persistantes"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "pointed at the finger",
+                "explanation": "Suggests blame and accusation toward fossil fuels, creating a confrontational tone.",
+                "neutral": "criticized"
+              },
+              {
+                "word": "shadow zones",
+                "explanation": "Implies hidden or problematic areas, evoking suspicion and uncertainty.",
+                "neutral": "unresolved issues"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "critical",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 30,
+                "quote": "COP28 : Face à la réalité scientifique, les énergies fossiles pointées du doigt, mais des zones d'ombre persistantes",
+                "rationale": "The focus on fossil fuels hints at economic implications for energy markets."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No explicit reference to security concerns in the excerpt."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of human impact or suffering."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 20,
+                "quote": "COP28 : Face à la réalité scientifique, les énergies fossiles pointées du doigt, mais des zones d'ombre persistantes",
+                "rationale": "COP28 is an international diplomatic forum; the headline reflects diplomatic debate over fossil fuels."
+              },
+              {
+                "theme": "accountability",
+                "score": 40,
+                "quote": "COP28 : Face à la réalité scientifique, les énergies fossiles pointées du doigt, mais des zones d'ombre persistantes",
+                "rationale": "The phrasing 'pointed at the finger' and 'shadow zones' emphasizes holding actors accountable."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No reference to technological innovation or solutions."
+              }
+            ],
+            "omitted": [
+              "Perspectives of fossil‑fuel‑dependent nations that may view the criticism differently"
+            ],
+            "confidence": 0.44
+          },
+          "method": "groq"
+        },
+        {
+          "article": {
+            "id": "1eb32bd1f36dff7c",
+            "country": "fr",
+            "outlet": "Touteleurope.eu",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVFWb1RaN0ZFUE1pNVRjclFxX25jNFRXak5tZ1N1UDFpTlpOa2R5N3JFbmpVbVJYdEJyZVZHVmdVRjBndm42UDhPUzMtcnZTWmhCNEg1dC1kU3ZnRm00NkxZX0xiN2wweXlZN2NlbS1TVUJKN3JrUTZPOHBzaW1uNkhvS3JoRlpNakQwRE1NcW5DRmowOEw2eWtEUDRXZ1hGTlFyMkJ6NC1TUDB1THZGaG9PbXZjVGliR2Rpc3BB?oc=5",
+            "headline": "COP28 : le monde entier s'accorde pour une \"transition\" hors des énergies fossiles",
+            "text": "COP28 : le monde entier s'accorde pour une \"transition\" hors des énergies fossiles",
+            "language": "fr",
+            "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28: the whole world agrees on a \"transition\" away from fossil fuels",
+            "translated_text": "COP28: the whole world agrees on a \"transition\" away from fossil fuels",
+            "key_claims": [
+              {
+                "text": "The article claims that the entire world is united in supporting a transition away from fossil fuels at COP28.",
+                "quote": "COP28 : le monde entier s'accorde pour une \"transition\" hors des énergies fossiles"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "whole world",
+                "explanation": "Suggests universal consensus, which may exaggerate the level of agreement.",
+                "neutral": "many countries"
+              },
+              {
+                "word": "agrees",
+                "explanation": "Implies unanimous consent, potentially overstating consensus.",
+                "neutral": "supports"
+              },
+              {
+                "word": "transition",
+                "explanation": "Framed positively, evoking progress and change.",
+                "neutral": "shift"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 30,
+                "quote": "COP28 : le monde entier s'accorde pour une \"transition\" hors des énergies fossiles",
+                "rationale": "The claim emphasizes a shift away from fossil fuels, which has major economic implications."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security‑related content is present in the excerpt."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not mention human impacts or costs."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 20,
+                "quote": "COP28 : le monde entier s'accorde pour une \"transition\" hors des énergies fossiles",
+                "rationale": "The wording highlights a global agreement, reflecting diplomatic cooperation."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability mechanisms or responsibilities are discussed."
+              },
+              {
+                "theme": "innovation",
+                "score": 20,
+                "quote": "COP28 : le monde entier s'accorde pour une \"transition\" hors des énergies fossiles",
+                "rationale": "A transition away from fossil fuels implies the need for new technologies and innovative solutions."
+              }
+            ],
+            "omitted": [
+              "Specific national positions or disagreements on the transition",
+              "Details of policies, timelines, or financial commitments",
+              "Potential challenges or criticisms of the transition strategy",
+              "Stakeholder perspectives such as industry, NGOs, or affected communities"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Two captured RSS headlines; cached Groq analysis"
+    },
+    {
+      "country": "de",
+      "outlets": [
+        {
+          "article": {
+            "id": "e5fd1ee89a8bd4f5",
+            "country": "de",
+            "outlet": "Frankfurter Rundschau",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDAzVnNLSEFrNmJORzNfMm9tTkR6VVRDaGRIRjVzUE5ETXRmSkpDYlk1M05ENXhYR0V6dFdBMFRMMS1yMTBCem9iRVRGMXFvRWNhS0FsMG8zQ1RycTRsbEdmQkpsZ0xQRFpMNFBaU2xrXzAzNkc3YU9WU1RjVTBaeUtJaURfQ1lOUFc4Smt5NVNBU2lkQnBiaXhvT0tfMktSeEphWW5fZ0J2Zm4xU0xFZ1UtWGRqaW50Tmxv?oc=5",
+            "headline": "Peinliche Enthüllung auf COP28: Vor Ort sind mehr als 160 Gruppen, die den Klimawandel leugnen",
+            "text": "Peinliche Enthüllung auf COP28: Vor Ort sind mehr als 160 Gruppen, die den Klimawandel leugnen",
+            "language": "de",
+            "published": "Tue, 12 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Embarrassing revelation at COP28: On site there are more than 160 groups that deny climate change",
+            "translated_text": "Embarrassing revelation at COP28: On site there are more than 160 groups that deny climate change",
+            "key_claims": [
+              {
+                "text": "More than 160 groups present at COP28 are denying climate change, which is described as an embarrassing revelation.",
+                "quote": "Peinliche Enthüllung auf COP28: Vor Ort sind mehr als 160 Gruppen, die den Klimawandel leugnen"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "Embarrassing",
+                "explanation": "Frames the situation as shameful, influencing the reader to view the presence of denial groups negatively.",
+                "neutral": "Unexpected"
+              },
+              {
+                "word": "deny",
+                "explanation": "Implies willful rejection of scientific consensus, adding moral weight.",
+                "neutral": "question"
+              }
+            ],
+            "blamed": [
+              "the groups that deny climate change"
+            ],
+            "praised": [],
+            "tone": "critical",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not discuss economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security implications are mentioned."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No reference to human impacts is present."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "Diplomatic relations are not addressed."
+              },
+              {
+                "theme": "accountability",
+                "score": 70,
+                "quote": "Peinliche Enthüllung auf COP28: Vor Ort sind mehr als 160 Gruppen, die den Klimawandel leugnen",
+                "rationale": "The claim holds the organizers or host accountable for allowing denial groups to be present, highlighting a lapse in responsibility."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of technological or innovative solutions."
+              }
+            ],
+            "omitted": [
+              "Why the denial groups are present at the conference",
+              "Responses from COP28 organizers or host country",
+              "The size or influence of the denial groups compared to other participants",
+              "Any discussion of the scientific consensus on climate change"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        },
+        {
+          "article": {
+            "id": "5ef1ce2a24eabb68",
+            "country": "de",
+            "outlet": "Greenpeace",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajFPNmFiNmpDNG9qX2xtOEVWRHVKYUs2Und0eEpodS13N2Z0QTUzVndNVktCODVXdXBoSmlacThtbWtmS0JTMU5faGZHbUcxV29IN200ZGJBbi1rS01hSkdJamtIYUFnWjlhWWpoN3dnMEpvN19EbTRJMHZNQXJncjZWNUNMT19FaERid2pvVzdmQ2FPY1lHRmlEbjN3a0N0Qlpla2R2M3RIQ1A4ZTkxSVR5ME9TQnlzbGJXaU8wc1EwN0R1ZV9BdFBhTk5sNG5yQmp0a2NzVDBiMlN4QUM0aHllWkJQUm0zSmE4?oc=5",
+            "headline": "COP28: Ein historisches Abkommen, das den Herausforderungen nicht ausreichend gerecht wird",
+            "text": "COP28: Ein historisches Abkommen, das den Herausforderungen nicht ausreichend gerecht wird",
+            "language": "de",
+            "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28: A historic agreement that does not adequately meet the challenges",
+            "translated_text": "COP28: A historic agreement that does not adequately meet the challenges",
+            "key_claims": [
+              {
+                "text": "The agreement is historic but fails to adequately address the challenges.",
+                "quote": "Ein historisches Abkommen, das den Herausforderungen nicht ausreichend gerecht wird"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "historic",
+                "explanation": "Suggests the agreement is of great significance, which can bias perception of its importance.",
+                "neutral": "significant"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "critical",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not mention economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security implications are discussed."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "Human impact is not referenced."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 30,
+                "quote": "Ein historisches Abkommen, das den Herausforderungen nicht ausreichend gerecht wird",
+                "rationale": "The headline refers to a COP28 agreement, indicating diplomatic negotiations."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability claims are present."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "Innovation is not mentioned."
+              }
+            ],
+            "omitted": [
+              "Specific details about the agreement's provisions",
+              "Identification of which parties are responsible for the shortcomings",
+              "Quantitative assessment of the challenges referenced",
+              "Reactions from affected communities or stakeholders"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Two captured RSS headlines; cached Groq analysis"
+    },
+    {
+      "country": "jp",
+      "outlets": [
+        {
+          "article": {
+            "id": "6a5ffde02a91d9ef",
+            "country": "jp",
+            "outlet": "朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zRXYtcTZ2QXEtTFBya0lDblBhcVFOMFZ1MDk2ZUphaEt4a2xvZlI4NWxnWDlCMF9BdVVGc2t3ZmdTTkpLLTBoZzN2bzVqVm9nVF9aQUd3OVZIMW8tQ0ZzQVpRcXNoZw?oc=5",
+            "headline": "COP28合意、「化石燃料からの脱却」となった理由は 潜む抜け穴",
+            "text": "COP28合意、「化石燃料からの脱却」となった理由は 潜む抜け穴",
+            "language": "ja",
+            "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28 agreement, the reason it became a \"breakaway from fossil fuels\" is a hidden loophole",
+            "translated_text": "COP28 agreement, the reason it became a \"breakaway from fossil fuels\" is a hidden loophole",
+            "key_claims": [
+              {
+                "text": "The COP28 agreement is portrayed as having become a breakaway from fossil fuels because of a hidden loophole.",
+                "quote": "COP28合意、「化石燃料からの脱却」となった理由は 潜む抜け穴"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "loophole",
+                "explanation": "Suggests a hidden flaw or intentional gap that undermines the agreement, giving a negative connotation.",
+                "neutral": "gap"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "critical",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 20,
+                "quote": "COP28合意、「化石燃料からの脱却」となった理由は 潜む抜け穴",
+                "rationale": "The headline hints at economic implications of moving away from fossil fuels, but the emphasis is limited."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No explicit reference to security issues in the excerpt."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of human impact or cost."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 10,
+                "quote": "COP28合意、「化石燃料からの脱却」となった理由は 潜む抜け穴",
+                "rationale": "Reference to the COP28 agreement implies diplomatic negotiations."
+              },
+              {
+                "theme": "accountability",
+                "score": 30,
+                "quote": "COP28合意、「化石燃料からの脱却」となった理由は 潜む抜け穴",
+                "rationale": "The notion of a \"hidden loophole\" points to a lack of accountability in the agreement."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No discussion of technological or innovative solutions."
+              }
+            ],
+            "omitted": [],
+            "confidence": 0.44
+          },
+          "method": "groq"
+        },
+        {
+          "article": {
+            "id": "7be8fe7c28097889",
+            "country": "jp",
+            "outlet": "WWFジャパン",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zUl91STdUaWh5YmhiN3ljZUUwbHFma1V6R3hCNFkyMkw0RHFLZ1k5MlRGTTBXd0toblRuaE5KRm95REpibk13OVRHbGdoeXpEeDRPSXJNM1pLejJNcGJwRQ?oc=5",
+            "headline": "COP28 結果報告",
+            "text": "COP28 結果報告",
+            "language": "ja",
+            "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28 Results Report",
+            "translated_text": "COP28 Results Report",
+            "key_claims": [
+              {
+                "text": "COP28 Results Report",
+                "quote": "COP28 結果報告"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No economic content present in the excerpt."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security content present in the excerpt."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No human cost content present in the excerpt."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic content present in the excerpt."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability content present in the excerpt."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No innovation content present in the excerpt."
+              }
+            ],
+            "omitted": [],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Two captured RSS headlines; cached Groq analysis"
+    },
+    {
+      "country": "in",
+      "outlets": [
+        {
+          "article": {
+            "id": "4f4a51935ac1ed27",
+            "country": "in",
+            "outlet": "NDTV",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVzlaOC1qZmRuZXZqMkNQcGFtSE1FQS1yblgwWTFZaFppcVJrTmpiUk1ldUh1ckIwODFINHo3b3JkRm9ITTRlb0o1YW1YWFBDR0dzRWdtXzFYQW1ITm1mWjJxVmEycDhNcWVkR2E4NkktWUxHYzEzaVQ3RC1oclNyX3AtUmFSalJGWEltQ0xsZi1BSGUxanJYV19mOW81TEFLYVBsWFNhZGRzV0U4dWpkOEI3OVcwUVROblIxVmIxQVJ4R1AwYmUtbHBR0gHPAUFVX3lxTE9RSzkwZEJCX3Q1cFZieWphQU1wNU1EekZEUmhyZEU1MDBjaUxSUDBPVURqU3QzWVczczl6cWc2Vkc5eWZDblpDdl9qRWhjNlh0VFVMMU9nT1gybFFhZU56TWYxMlh4ejZ2MWVHLW52cHpITW43Vkl2a1hMN3FXMjlkcUw3MkQzMjZKb1BkQ0NELUJqcnBDc0FMemVjVFhNNmxkNkpDa0FOSlFnSmxMaVoxSThlTWsyUEl0ajBWZkdDNUpkRUZTMFkzZmJzci1Ibw?oc=5",
+            "headline": "विश्लेषण: जीवाश्म ईंधन पर COP28 डील के बावजूद, 1.5 डिग्री सेल्सियस का लक्ष्य पहुंच से बाहर होने की संभावना",
+            "text": "विश्लेषण: जीवाश्म ईंधन पर COP28 डील के बावजूद, 1.5 डिग्री सेल्सियस का लक्ष्य पहुंच से बाहर होने की संभावना",
+            "language": "hi",
+            "published": "Thu, 14 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Analysis: Despite the COP28 deal on fossil fuels, the 1.5°C target is likely to be out of reach.",
+            "translated_text": "Analysis: Despite the COP28 deal on fossil fuels, the 1.5°C target is likely to be out of reach.",
+            "key_claims": [
+              {
+                "text": "Despite the COP28 fossil‑fuel deal, the 1.5°C climate target is likely to be missed.",
+                "quote": "जीवाश्म ईंधन पर COP28 डील के बावजूद, 1.5 डिग्री सेल्सियस का लक्ष्य पहुंच से बाहर होने की संभावना"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "cautious",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not discuss economic impacts or financial aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security‑related issues are mentioned."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "The text does not refer to human suffering or health impacts."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 50,
+                "quote": "COP28 डील",
+                "rationale": "Reference to the COP28 agreement indicates an element of international diplomatic negotiation."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No actors are held responsible or called to account."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of technological or innovative solutions."
+              }
+            ],
+            "omitted": [
+              "Specific data on current emission trajectories, details of the COP28 agreement, and alternative policy options are not provided in this excerpt."
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        },
+        {
+          "article": {
+            "id": "f11ce50a02804943",
+            "country": "in",
+            "outlet": "UN News",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjQWZjYW4zYm9FNU5fSndnUk4xNlpYXzRKNUlXd0NGY3U3M3FWRmxsbUJqZ3Y5VHRxRFhzQXpkNThFeVgzNHRYNk9MSzBoUWlCNlpUT2VzMA?oc=5",
+            "headline": "दुबई में कॉप28, जीवाश्म ईंधन से 'दूर जाने' के आहवान के साथ सम्पन्न",
+            "text": "दुबई में कॉप28, जीवाश्म ईंधन से 'दूर जाने' के आहवान के साथ सम्पन्न",
+            "language": "hi",
+            "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "COP28 in Dubai concluded with a call to \"move away\" from fossil fuels",
+            "translated_text": "COP28 in Dubai concluded with a call to \"move away\" from fossil fuels",
+            "key_claims": [
+              {
+                "text": "COP28 in Dubai concluded with a call to \"move away\" from fossil fuels",
+                "quote": "दुबई में कॉप28, जीवाश्म ईंधन से 'दूर जाने' के आहवान के साथ सम्पन्न"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "call",
+                "explanation": "Suggests a strong, urgent demand rather than a neutral suggestion.",
+                "neutral": "suggestion"
+              },
+              {
+                "word": "move away",
+                "explanation": "Implies a decisive break from fossil fuels, framing the transition as imperative.",
+                "neutral": "reduce reliance on"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "critical",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not discuss economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security implications are mentioned."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "Human impact is not addressed."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "Diplomatic relations are not referenced."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability claims are made."
+              },
+              {
+                "theme": "innovation",
+                "score": 20,
+                "quote": "दुबई में कॉप28, जीवाश्म ईंधन से 'दूर जाने' के आहवान के साथ सम्पन्न",
+                "rationale": "The call to move away from fossil fuels suggests a push for innovative energy solutions."
+              }
+            ],
+            "omitted": [],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Two captured RSS headlines; cached Groq analysis"
+    }
+  ],
+  "synthesis": {
+    "summary": [
+      {
+        "text": "Plusieurs médias (CNBC, The Guardian, BBC, Touteleurope.eu) rapportent que le sommet COP28 a abouti à un accord qualifié de « transition » ou de « départ » des énergies fossiles.",
+        "source_ids": [
+          "dd313ea06e0e682a",
+          "6fdf96852cb202d1",
+          "5b717f4f0d86f714",
+          "1eb32bd1f36dff7c"
+        ]
+      },
+      {
+        "text": "D’autres sources (Frankfurter Rundschau, NDTV, UN News) soulignent que, malgré cet accord, des défis subsistent : présence de groupes niant le climat et risque que l’objectif de 1,5 °C reste hors de portée.",
+        "source_ids": [
+          "e5fd1ee89a8bd4f5",
+          "4f4a51935ac1ed27",
+          "f11ce50a02804943"
+        ]
+      }
+    ],
+    "simple_summary": [
+      {
+        "text": "Le COP28 a annoncé un accord pour réduire les combustibles fossiles.",
+        "source_ids": [
+          "dd313ea06e0e682a"
+        ]
+      },
+      {
+        "text": "Des groupes qui nient le changement climatique étaient présents, et les experts doutent que l’objectif de 1,5 °C soit atteint.",
+        "source_ids": [
+          "e5fd1ee89a8bd4f5"
+        ]
+      }
+    ],
+    "clusters": [
+      {
+        "claim": "Le sommet COP28 a conclu un accord visant à s’éloigner des énergies fossiles.",
+        "status": "shared",
+        "source_ids": [
+          "dd313ea06e0e682a",
+          "6fdf96852cb202d1",
+          "5b717f4f0d86f714",
+          "1eb32bd1f36dff7c"
+        ],
+        "note": "Attribué par plusieurs médias, mais les détails du texte de l’accord ne sont pas fournis."
+      },
+      {
+        "claim": "Plus de 160 groupes niant le changement climatique étaient présents à la conférence.",
+        "status": "single_source",
+        "source_ids": [
+          "e5fd1ee89a8bd4f5"
+        ],
+        "note": "Mentionné uniquement par Frankfurter Rundschau; aucune autre source confirme ou conteste ce chiffre."
+      },
+      {
+        "claim": "Même avec l’accord, l’objectif de limiter le réchauffement à 1,5 °C reste probablement inatteignable.",
+        "status": "single_source",
+        "source_ids": [
+          "4f4a51935ac1ed27"
+        ],
+        "note": "Analyse de NDTV, sans données chiffrées ni contre‑argumentation d’autres médias."
+      }
+    ],
+    "missing_voices": [
+      {
+        "perspective": "Points de vue des entreprises du secteur des combustibles fossiles et de leurs représentants.",
+        "why_it_matters": "Leur absence empêche d’évaluer les engagements concrets, les résistances ou les propositions alternatives du principal acteur économique concerné.",
+        "source_ids": [
+          "5b717f4f0d86f714",
+          "2b867fccfd79d482"
+        ]
+      },
+      {
+        "perspective": "Opinions des pays fortement dépendants du pétrole et du gaz, notamment ceux du Moyen‑Orient et d’Afrique.",
+        "why_it_matters": "Ces États pourraient percevoir l’accord différemment et leurs positions influencent la mise en œuvre réelle des engagements.",
+        "source_ids": [
+          "2b867fccfd79d482",
+          "1eb32bd1f36dff7c"
+        ]
+      }
+    ],
+    "caveat": "Ces points reflètent uniquement les extraits fournis ; ils ne représentent pas l’ensemble de la couverture médiatique ni les biais globaux des pays ou des organes de presse."
+  },
+  "notices": [
+    "Cached demo: real RSS headlines with pre-generated Groq analysis. No live calls.",
+    "Up to two outlets per edition. A feed edition is not a country’s opinion.",
+    "Headline-only evidence: confidence capped at 45%. Omission means not visible here, not deliberately hidden."
+  ]
+}

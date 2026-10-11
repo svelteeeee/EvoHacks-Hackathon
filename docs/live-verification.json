@@ -1,0 +1,11 @@
+{
+  "status": "blocked",
+  "provider": "Groq",
+  "cause": "daily token quota reached",
+  "feed_provider_retrieval": "NewsData.io returned two real articles",
+  "captured_headline_groq": "verified across all three events",
+  "full_article_smoke": "failed before completion",
+  "repair": "bounded translated passage and output arrays; increased completion budget",
+  "repaired_live_rerun": "pending quota reset",
+  "browser_review": "pending"
+}

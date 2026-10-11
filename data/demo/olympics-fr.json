@@ -1,0 +1,600 @@
+{
+  "id": "demo-olympics-fr",
+  "query": "Paris Olympics",
+  "language": "fr",
+  "mode": "demo",
+  "created_at": "2026-10-11T06:45:53.557066+00:00",
+  "countries": [
+    {
+      "country": "us",
+      "outlets": [
+        {
+          "article": {
+            "id": "a3eee5d324d6179d",
+            "country": "us",
+            "outlet": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1BiZTU3WWNkNUhEWEdaUGFTYXR2TkdDM0VBeXd2Z05Fc2NnZGFFTzM2bm5FQkdGRW1mLS03bmVwbkZjWHctUHRXTEVsWHFsMEFJLUktU3J5TjhWXzVPWC1jZDZhdFp1aF9GeFhqb3YtbkR6eURiUkpPVTU5SHNNdHBmcXpIU0NvdENWQ2ZDQjlkb2ZIUTZTYXlpRDNybUY3OXdTRW5mdE93UjRSVFE?oc=5",
+            "headline": "Paris’ Olympics opening was wacky and wonderful — and upset bishops. Here’s why",
+            "text": "Paris’ Olympics opening was wacky and wonderful — and upset bishops. Here’s why",
+            "language": "en",
+            "published": "Sun, 28 Jul 2024 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Paris’ Olympics opening was wacky and wonderful — and upset bishops. Here’s why",
+            "translated_text": "Paris’ Olympics opening was wacky and wonderful — and upset bishops. Here’s why",
+            "key_claims": [
+              {
+                "text": "The opening ceremony of the Paris Olympics was described as both wacky and wonderful, and it caused upset among bishops.",
+                "quote": "Paris’ Olympics opening was wacky and wonderful — and upset bishops."
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "wacky",
+                "explanation": "Suggests the ceremony was odd or bizarre, framing it as unconventional and potentially chaotic.",
+                "neutral": "unconventional"
+              },
+              {
+                "word": "wonderful",
+                "explanation": "Conveys a positive, enthusiastic judgment, implying the ceremony was highly enjoyable.",
+                "neutral": "impressive"
+              },
+              {
+                "word": "upset",
+                "explanation": "Indicates strong negative emotional reaction, highlighting conflict or disapproval.",
+                "neutral": "displeased"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "celebratory",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No economic aspects are mentioned in the excerpt."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security-related content is present."
+              },
+              {
+                "theme": "human_cost",
+                "score": 20,
+                "quote": "upset bishops",
+                "rationale": "The headline highlights emotional impact on a specific group (bishops), indicating some emphasis on human reaction."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic discussion is included."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not address responsibility or oversight."
+              },
+              {
+                "theme": "innovation",
+                "score": 30,
+                "quote": "wacky and wonderful",
+                "rationale": "Describing the ceremony as 'wacky and wonderful' suggests a focus on creative or novel elements of the event."
+              }
+            ],
+            "omitted": [
+              "Reactions from athletes, spectators, or French officials",
+              "Details about why bishops were upset",
+              "Broader cultural or political context of the ceremony"
+            ],
+            "confidence": 0.44
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "gb",
+      "outlets": [
+        {
+          "article": {
+            "id": "28d9bcd0d3590e65",
+            "country": "gb",
+            "outlet": "The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1hVUWFGZjRKNmtiYkxnQkdabjlGVU1hZ3BPemF4Xzhyc08zUWk0aGFaWHlNZ3kwTmNseGk2bUh2dE14X1EwajE5cVBTNDREZHNvSTdEbWJLR2pFQ1RZYzNBMnh1UUZQLTJYUExRQ3cwM2JLRWhpNTAxSWJaOVc2Y00zOElWTzNlRlNJWE8xVmNWNHJ6X01FODBhbGk3ZlhL?oc=5",
+            "headline": "‘It was like us – a chaotic mess’: France enjoys Paris Games opening ceremony",
+            "text": "‘It was like us – a chaotic mess’: France enjoys Paris Games opening ceremony",
+            "language": "en",
+            "published": "Sat, 27 Jul 2024 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "‘It was like us – a chaotic mess’: France enjoys Paris Games opening ceremony",
+            "translated_text": "‘It was like us – a chaotic mess’: France enjoys Paris Games opening ceremony",
+            "key_claims": [
+              {
+                "text": "The article claims that France is enjoying the opening ceremony of the Paris Games, describing the event as a chaotic mess that feels familiar.",
+                "quote": "‘It was like us – a chaotic mess’: France enjoys Paris Games opening ceremony"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "chaotic mess",
+                "explanation": "The phrase frames the ceremony as disorderly and poorly organized, evoking a negative impression.",
+                "neutral": "disorganized event"
+              },
+              {
+                "word": "enjoys",
+                "explanation": "Suggests a positive, approving attitude toward the ceremony, implying endorsement.",
+                "neutral": "observes"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "sympathetic",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt contains no reference to economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security issues are mentioned."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No discussion of human cost appears."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 30,
+                "quote": "‘It was like us – a chaotic mess’: France enjoys Paris Games opening ceremony",
+                "rationale": "The description of the opening ceremony highlights a cultural‑diplomatic moment that showcases France to the world."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability or criticism of organizers is present."
+              },
+              {
+                "theme": "innovation",
+                "score": 20,
+                "quote": "‘It was like us – a chaotic mess’: France enjoys Paris Games opening ceremony",
+                "rationale": "The mention of the ceremony’s chaotic nature hints at unconventional or experimental elements, but the excerpt does not elaborate on technological or creative innovation."
+              }
+            ],
+            "omitted": [
+              "Reactions of athletes and spectators beyond the quoted sentiment",
+              "Details about the cost and logistical planning of the ceremony",
+              "Any criticism or praise from officials, sponsors, or international observers"
+            ],
+            "confidence": 0.42
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "fr",
+      "outlets": [
+        {
+          "article": {
+            "id": "33268a121ba15850",
+            "country": "fr",
+            "outlet": "Olympics",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdndRZXFmcXNwWUFHSW54ZjVweWdSNTdjbVdUdERnMlpWbnY3OXNKdG1kVUktRnlnQVg1bHg4VGg3TEFSUkc2NUlpMWF3aWxuOXR5aXB5cEhiNnExQ25NY0Y4MkhIZTgtcDBRMGRuSlZCaGxLNVBoX3pyVFF1bVNTX2M0Nk5NdHdpb291VWlVQmh2SjZ6R2pnMXFOa0loa3BtVTY2QWptVm1TajJDU3QtX29oM1I?oc=5",
+            "headline": "Cérémonie d’ouverture des JO de Paris 2024 : le moment de gloire (annoncé) de Thomas Jolly, directeur artistique de l’événement",
+            "text": "Cérémonie d’ouverture des JO de Paris 2024 : le moment de gloire (annoncé) de Thomas Jolly, directeur artistique de l’événement",
+            "language": "fr",
+            "published": "Fri, 26 Jul 2024 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Opening ceremony of the Paris 2024 Olympics: the moment of glory (announced) of Thomas Jolly, artistic director of the event",
+            "translated_text": "Opening ceremony of the Paris 2024 Olympics: the moment of glory (announced) of Thomas Jolly, artistic director of the event",
+            "key_claims": [
+              {
+                "text": "The artistic director Thomas Jolly has announced a \"moment of glory\" for the opening ceremony of the Paris 2024 Olympics.",
+                "quote": "le moment de gloire (annoncé)"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "glory",
+                "explanation": "Conveys a triumphant, exalted tone that frames the ceremony as a spectacular success.",
+                "neutral": "highlight"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "celebratory",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not discuss economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security issues are mentioned."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No reference to human cost or impact."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "Diplomatic dimensions are absent."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability claims are present."
+              },
+              {
+                "theme": "innovation",
+                "score": 40,
+                "quote": "le moment de gloire (annoncé)",
+                "rationale": "The phrase suggests a distinctive, possibly innovative highlight planned for the ceremony."
+              }
+            ],
+            "omitted": [
+              "Public reaction to the proposed ceremony",
+              "Budgetary costs and financial implications",
+              "Logistical or security planning details",
+              "Potential controversies or criticisms",
+              "Broader cultural or political context of the Olympics"
+            ],
+            "confidence": 0.42
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "de",
+      "outlets": [
+        {
+          "article": {
+            "id": "175537969ec2b75b",
+            "country": "de",
+            "outlet": "PC Games Hardware",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3g3LWNJWktYTnNMUUtiOExwZHRSeEl3Zk84TDlTUGxweTllc2FLbVBCVmRSNjkxYmFtT2xlVi1QSng1Y0owSW9KWjZKR2M1Sm0ybUFUSklYUTlXUVo2ejh4Ul9wUFdJZnRVbUQ5WUdBVjdDUG1ieFBscU02T2N4clJsNHRPNm0yeGxvSWlzRHV0SWw0ODVNd1k2cDJQRlhHa0dDRUl0ejdMZXNDY0Uw?oc=5",
+            "headline": "Olympia: Assassin's Creed ist mit dabei",
+            "text": "Olympia: Assassin's Creed ist mit dabei",
+            "language": "de",
+            "published": "Sun, 28 Jul 2024 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Olympia: Assassin's Creed is included",
+            "translated_text": "Olympia: Assassin's Creed is included",
+            "key_claims": [
+              {
+                "text": "The article states that Assassin's Creed will be part of Olympia.",
+                "quote": "Olympia: Assassin's Creed ist mit dabei"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 30,
+                "quote": "Olympia: Assassin's Creed ist mit dabei",
+                "rationale": "The inclusion of a major franchise suggests economic activity for the event and the gaming industry."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security‑related content is present."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not discuss any human‑impact issues."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic aspects are mentioned."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability claims are made."
+              },
+              {
+                "theme": "innovation",
+                "score": 20,
+                "quote": "Olympia: Assassin's Creed ist mit dabei",
+                "rationale": "Mentioning a flagship game implies the showcase of new content or technology."
+              }
+            ],
+            "omitted": [
+              "Details about what \"Olympia\" is (e.g., a gaming expo, conference, or event) and its significance are not provided."
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "jp",
+      "outlets": [
+        {
+          "article": {
+            "id": "2e7b941947563b77",
+            "country": "jp",
+            "outlet": "ロイター",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOF9QeHY0OFlnZkVtVkRuTFVIdnk4U0s4aE9RaF9zbTFJeFQySjUzdE1MdDRwV1dUMzlpTEZtM3o0Vm56ZUFxaWdoc1JGQXgxUl81djN2czl1dUpTNlVPRHVuSGNBa3JaVlBubTdDSXVJdXZRcF8zVVJLamtnTDdpWUU3SUQxb3RzNDFncElpVmhPeTExR0ZZTg?oc=5",
+            "headline": "In pictures: Team USA at the Paris Olympics opening ceremony",
+            "text": "In pictures: Team USA at the Paris Olympics opening ceremony",
+            "language": "en",
+            "published": "Sat, 27 Jul 2024 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "In pictures: Team USA at the Paris Olympics opening ceremony",
+            "translated_text": "In pictures: Team USA at the Paris Olympics opening ceremony",
+            "key_claims": [
+              {
+                "text": "The article presents photographs of the United States delegation participating in the opening ceremony of the Paris Olympic Games.",
+                "quote": "In pictures: Team USA at the Paris Olympics opening ceremony"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "diplomacy",
+                "score": 12,
+                "quote": "In pictures: Team USA at the Paris Olympics opening ceremony",
+                "rationale": "The image of a national team at an international ceremony highlights diplomatic engagement and soft power representation."
+              },
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No economic content is evident in the excerpt."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security‑related content is evident in the excerpt."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not discuss human suffering or casualties."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability issues are mentioned."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of technological or innovative aspects."
+              }
+            ],
+            "omitted": [],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "in",
+      "outlets": [
+        {
+          "article": {
+            "id": "3b0dbc8e7ffbc50a",
+            "country": "in",
+            "outlet": "ABP News",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFc0ZDVxNXdBTHlvT1hSZk1sWGVteFREeTBnZGFQZXpKckgwdDZnYl9ieXNnMzVwWnJRTll6NFdjaGNZcUZEak5LQ2JQUW93VnVDdkZCVTY0bDBWU0VFM2tLbHBVOXllNHUxZE4tcXJEbnVsWVlFanlRUmxFT3BqZFptbW0wbURTOUxpa3RkdVdxVEp0MmxKbFNUM19sdTg2QnlIUFBQU3hjdG1CeDV1RDZHOU9yOXhCOVBzTV9oZjYxX09FRTUtMEw3b2djUTI1bHUw0gHYAUFVX3lxTE9Sak93emk3aHBfQUdGQ3BqcFJkVExSYVRlRTNkQW1jakVoUzlsN3RRbEVnQVpsUzF5Q3hKVjJubF84aTYydVFiaTBhZmJPazZUWlVQdE1pTUhleldUVlU2eHJpcWVTeVQ4SXlmWmRyZmVRTDk0RmFpSTdQQ0FOZXNDNlNnRlA0R0V4MWQ3RHYtdWlGWlIzQlgwTzdOV2RsT0pEMWwySk81UVNKOFJQRUpfNFFVb1JiOHFqNWtNdG0tQ2Z5ZTdwWWcwSG9acmxOUW1YWm5MdlJpZQ?oc=5",
+            "headline": "Paris Olympic Opening Ceremony: भारत में कितने बजे से लाइव देख सकेंगे पेरिस ओलंपिक की ओपनिंग सेरेमनी?",
+            "text": "Paris Olympic Opening Ceremony: भारत में कितने बजे से लाइव देख सकेंगे पेरिस ओलंपिक की ओपनिंग सेरेमनी?",
+            "language": "hi",
+            "published": "Fri, 26 Jul 2024 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Paris Olympic Opening Ceremony: From what time can we watch the Paris Olympic opening ceremony live in India?",
+            "translated_text": "Paris Olympic Opening Ceremony: From what time can we watch the Paris Olympic opening ceremony live in India?",
+            "key_claims": [
+              {
+                "text": "The article asks at what time Indian viewers will be able to watch the Paris Olympic opening ceremony live.",
+                "quote": "भारत में कितने बजे से लाइव देख सकेंगे पेरिस ओलंपिक की ओपनिंग सेरेमनी?"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt contains no discussion of economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security-related content is present."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of human cost or impact."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "Diplomatic relations are not addressed."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "There is no accountability discussion."
+              },
+              {
+                "theme": "innovation",
+                "score": 0,
+                "quote": "",
+                "rationale": "Innovation is not referenced."
+              }
+            ],
+            "omitted": [
+              "Specific broadcast time and channel details for Indian viewers are not provided."
+            ],
+            "confidence": 0.45
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    }
+  ],
+  "synthesis": {
+    "summary": [
+      {
+        "text": "Both AP News and The Guardian describe the Paris 2024 opening ceremony as unusually playful and chaotic, noting it sparked surprise among bishops.",
+        "source_ids": [
+          "a3eee5d324d6179d",
+          "28d9bcd0d3590e65"
+        ]
+      },
+      {
+        "text": "The event’s artistic director, Thomas Jolly, calls the ceremony a “moment of glory,” while other outlets highlight unrelated details such as Assassin’s Creed’s inclusion in a separate “Olympia” event.",
+        "source_ids": [
+          "33268a121ba15850",
+          "175537969ec2b75b"
+        ]
+      }
+    ],
+    "simple_summary": [
+      {
+        "text": "The opening ceremony was called wacky, wonderful, and chaotic, and it upset some bishops.",
+        "source_ids": [
+          "a3eee5d324d6179d",
+          "28d9bcd0d3590e65"
+        ]
+      },
+      {
+        "text": "Thomas Jolly says the ceremony will be a “moment of glory.”",
+        "source_ids": [
+          "33268a121ba15850"
+        ]
+      }
+    ],
+    "clusters": [
+      {
+        "claim": "The Paris 2024 opening ceremony was portrayed as unconventional, wacky, and chaotic.",
+        "status": "shared",
+        "source_ids": [
+          "a3eee5d324d6179d",
+          "28d9bcd0d3590e65"
+        ],
+        "note": "Both AP News and The Guardian use similar language to describe the event’s tone."
+      },
+      {
+        "claim": "Artistic director Thomas Jolly announced the ceremony as a “moment of glory.”",
+        "status": "single_source",
+        "source_ids": [
+          "33268a121ba15850"
+        ],
+        "note": "Only the Olympics outlet reports this specific statement."
+      },
+      {
+        "claim": "Assassin’s Creed will be featured in an event called “Olympia.”",
+        "status": "single_source",
+        "source_ids": [
+          "175537969ec2b75b"
+        ],
+        "note": "PC Games Hardware mentions this, unrelated to the Olympic ceremony."
+      }
+    ],
+    "missing_voices": [
+      {
+        "perspective": "Reactions from French officials and athletes",
+        "why_it_matters": "Their views would clarify official and participant responses to the ceremony’s style and any controversy.",
+        "source_ids": [
+          "a3eee5d324d6179d",
+          "28d9bcd0d3590e65"
+        ]
+      },
+      {
+        "perspective": "Details on the ceremony’s budget and logistical planning",
+        "why_it_matters": "Understanding costs and organization helps assess the event’s feasibility and public investment.",
+        "source_ids": [
+          "28d9bcd0d3590e65",
+          "33268a121ba15850"
+        ]
+      }
+    ],
+    "caveat": "These points reflect only the limited headlines and excerpts provided; they do not represent the full coverage or editorial stance of the outlets."
+  },
+  "notices": [
+    "Cached demo: real RSS headlines with pre-generated Groq analysis. No live calls.",
+    "One outlet per edition. A feed edition is not a country’s opinion.",
+    "Headline-only evidence: confidence capped at 45%. Omission means not visible here, not deliberately hidden."
+  ]
+}

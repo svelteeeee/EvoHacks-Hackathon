@@ -45,6 +45,7 @@ let simple = false;
 let original = false;
 let language = "en";
 let mode = "demo";
+let staticMode = false;
 let controller: AbortController | undefined;
 let focusedElement: HTMLElement | null = null;
 const statuses = new Map<string, Progress>();
@@ -181,6 +182,24 @@ async function analyze(query: string, demo: boolean) {
   statusRender();
   el<HTMLInputElement>("query").value = query;
   try {
+    if (staticMode && demo) {
+      const d = config.demos.find(
+        (x) => x.query === query || x.id === query || x.title === query,
+      );
+      if (d) {
+        el("pipeline-stage").textContent = "Loading cached analysis";
+        let rr = await fetch(`/demo/${d.id}-${language}.json`);
+        if (!rr.ok) rr = await fetch(`/demo/${d.id}-en.json`);
+        if (rr.ok) {
+          report = (await rr.json()) as Report;
+          renderResults();
+          return;
+        }
+      }
+      throw new Error(
+        "This story is not in the offline pack. Choose a cached story.",
+      );
+    }
     const response = await fetch("/api/analyze/stream", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -551,10 +570,20 @@ for (const d of document.querySelectorAll<HTMLDialogElement>("dialog")) {
 }
 async function init() {
   try {
-    const response = await fetch("/api/config");
-    if (!response.ok)
-      throw new Error("Backend unavailable. Start FastAPI on port 8000.");
-    config = await response.json();
+    let loaded: Config | undefined;
+    try {
+      const r = await fetch("/api/config");
+      const j = (await r.json()) as Config;
+      if (j && j.countries) loaded = j;
+    } catch {
+      loaded = undefined;
+    }
+    if (!loaded) {
+      const r = await fetch("/config.json");
+      loaded = (await r.json()) as Config;
+      staticMode = true;
+    }
+    config = loaded;
     renderDemos();
     setMode("demo");
     const { City } = await import("./city");

@@ -1,0 +1,642 @@
+{
+  "id": "demo-moon-en",
+  "query": "Chandrayaan-3",
+  "language": "en",
+  "mode": "demo",
+  "created_at": "2026-10-11T06:31:10.304469+00:00",
+  "countries": [
+    {
+      "country": "us",
+      "outlets": [
+        {
+          "article": {
+            "id": "0d8083769c88747e",
+            "country": "us",
+            "outlet": "Science | AAAS",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHJSUDJMZEo1R01OUkk5aXlERXQ2TlBtWUtDWFlDNlozZFpRVE8zQk9TZS03UXE0QVdQcGZEbk1jeDBFbUxSdXo4SHZaVDg3VEd0OWFyMlh3MkxHOUYwQTgtR1Z5RC1wa1B4RXZZcVV6UlowNU12NEhIcDB0SjN2SzFOX1BILWtPSU9UbVpSam45UHpHOTVNYmRQNXJhUkhDcmk0?oc=5",
+            "headline": "India makes history by landing spacecraft near Moon’s south pole",
+            "text": "India makes history by landing spacecraft near Moon’s south pole",
+            "language": "en",
+            "published": "Wed, 23 Aug 2023 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "India makes history by landing spacecraft near Moon’s south pole",
+            "translated_text": "India makes history by landing spacecraft near Moon’s south pole",
+            "key_claims": [
+              {
+                "text": "India makes history by landing spacecraft near Moon’s south pole",
+                "quote": "India makes history by landing spacecraft near Moon’s south pole"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "history",
+                "explanation": "Suggests an exceptional, pride‑inducing achievement, framing the event as historically significant",
+                "neutral": "landed"
+              }
+            ],
+            "blamed": [],
+            "praised": [
+              "India"
+            ],
+            "tone": "celebratory",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No economic aspects are mentioned in the excerpt"
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security aspects are mentioned in the excerpt"
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No human‑cost aspects are mentioned in the excerpt"
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic aspects are mentioned in the excerpt"
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability aspects are mentioned in the excerpt"
+              },
+              {
+                "theme": "innovation",
+                "score": 85,
+                "quote": "India makes history by landing spacecraft near Moon’s south pole",
+                "rationale": "Emphasizes a technological breakthrough in space exploration"
+              }
+            ],
+            "omitted": [
+              "International collaboration",
+              "Scientific objectives of the mission",
+              "Mission cost and funding",
+              "Potential geopolitical implications"
+            ],
+            "confidence": 0.44
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "gb",
+      "outlets": [
+        {
+          "article": {
+            "id": "a14b93c26bb84962",
+            "country": "gb",
+            "outlet": "European Space Agency (ESA)",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVFidk9ZVmsyQVY5M05pRVJWbHhJcDNyN3FvWEZFWEptcFFGc1U0aURvR0hmZXUyQWRpaHZjWWZZWFdkaUU3N3J0ODJvVkJPclJlMEdQTFlvSUl0UUNyY3lLYldzT0lxU3V3VUxmODhyRmZ0WS05eVkxMzdZZTJiVXo5VE5qa09QUXBmazVydXJmbHE5YkpSZGYxcGhjQlBFYlE?oc=5",
+            "headline": "India’s Chandrayaan-3 successfully lands on the Moon",
+            "text": "India’s Chandrayaan-3 successfully lands on the Moon",
+            "language": "en",
+            "published": "Wed, 23 Aug 2023 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "India’s Chandrayaan-3 successfully lands on the Moon",
+            "translated_text": "India’s Chandrayaan-3 successfully lands on the Moon",
+            "key_claims": [
+              {
+                "text": "India’s Chandrayaan-3 successfully lands on the Moon",
+                "quote": "India’s Chandrayaan-3 successfully lands on the Moon"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "successfully",
+                "explanation": "Conveys a positive assessment of the mission's outcome, adding celebratory tone",
+                "neutral": "lands"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "celebratory",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not mention economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security implications are discussed."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No reference to human casualties or impacts."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic context is provided."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability or oversight information is present."
+              },
+              {
+                "theme": "innovation",
+                "score": 80,
+                "quote": "India’s Chandrayaan-3 successfully lands on the Moon",
+                "rationale": "Emphasizes a technological achievement in space exploration."
+              }
+            ],
+            "omitted": [
+              "The excerpt omits details about the mission's scientific goals, international collaboration, and any challenges faced."
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "fr",
+      "outlets": [
+        {
+          "article": {
+            "id": "696a28ff352d3eda",
+            "country": "fr",
+            "outlet": "Le Monde.fr",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0pXRFZLWjkyX0FIc3N5QWdDMm5qMjRGQV85YjJUVGc5QWlqbUhjQ1FKbGQzN3RjazFZNGo0Q2RJZ3hCTU9BcjhZMnBIQzRwU1JPd25wQWZsaEowUHdQc0VkRl8zcDVzYTFjMnV3cHpEMFpTaWppb1luRmNFVk9ZM3JtbDI3TEdLNl92bGR1SDA5ZFBfYmJaNWJfU1VMM0ppdHA4WEktNDdZRzVZMTVmamtDbzBnRS13X1VTS2Fjc2xTSkU1M2c?oc=5",
+            "headline": "Chandrayaan-3 : la sonde indienne s’est posée sur la Lune",
+            "text": "Chandrayaan-3 : la sonde indienne s’est posée sur la Lune",
+            "language": "fr",
+            "published": "Wed, 23 Aug 2023 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Chandrayaan-3: the Indian probe has landed on the Moon",
+            "translated_text": "Chandrayaan-3: the Indian probe has landed on the Moon",
+            "key_claims": [
+              {
+                "text": "The Indian probe Chandrayaan-3 has landed on the Moon.",
+                "quote": "la sonde indienne s’est posée sur la Lune"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "innovation",
+                "score": 70,
+                "quote": "la sonde indienne s’est posée sur la Lune",
+                "rationale": "The article highlights a technological achievement by reporting the probe's lunar landing."
+              },
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No economic aspects are mentioned."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security implications are discussed."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No human cost is referenced."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic context is provided."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability issues are raised."
+              }
+            ],
+            "omitted": [
+              "Broader scientific significance of the mission",
+              "International reactions or competition in lunar exploration",
+              "Details about the mission's objectives and technical specifications"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "de",
+      "outlets": [
+        {
+          "article": {
+            "id": "4b1acc51912df58a",
+            "country": "de",
+            "outlet": "Spiegel",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3FrZTN5QTBtVFp3WE1na3NQYXpsSzFyZWJ2OUd3UTZDakdsQVhDY2R5Y0lrcjdTXzQ1OUxMUTZHUm4zaVJYZnVBVzVjVjZLWXllSE1CcTFCZU0tWFE1MUFDclRVbUhqdEVqVlVCOWNFOVdUNUpMWUtaWmFVOHc4dkVCQWsxVXFaTXZMWHM1clNrNjk4dVNVOXJJYU45TS1MV2hMenJTSWhjVVFCZVNaSGcxOUhFSEdUcUdWRXpfUFZyekpZZU9UQlRjLTlMOUQxYUNDVUxTaG02RTc3Z0c5YkJtcHZaWXdZ?oc=5",
+            "headline": "Indien bringt Sonde Chandrayaan-3 erfolgreich auf den Erdtrabanten",
+            "text": "Indien bringt Sonde Chandrayaan-3 erfolgreich auf den Erdtrabanten",
+            "language": "de",
+            "published": "Thu, 24 Aug 2023 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "India successfully lands probe Chandrayaan-3 on the Earth's moon",
+            "translated_text": "India successfully lands probe Chandrayaan-3 on the Earth's moon",
+            "key_claims": [
+              {
+                "text": "India successfully lands the Chandrayaan-3 probe on the Moon",
+                "quote": "Indien bringt Sonde Chandrayaan-3 erfolgreich auf den Erdtrabanten"
+              }
+            ],
+            "loaded_words": [
+              {
+                "word": "successfully",
+                "explanation": "Conveys a positive achievement, emphasizing success rather than just the event",
+                "neutral": "lands"
+              }
+            ],
+            "blamed": [],
+            "praised": [],
+            "tone": "celebratory",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No economic aspects mentioned."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security aspects mentioned."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No human‑cost aspects mentioned."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic aspects mentioned."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability aspects mentioned."
+              },
+              {
+                "theme": "innovation",
+                "score": 80,
+                "quote": "Indien bringt Sonde Chandrayaan-3 erfolgreich auf den Erdtrabanten",
+                "rationale": "Emphasizes a technological achievement in space exploration."
+              }
+            ],
+            "omitted": [
+              "Scientific significance of the mission",
+              "Comparison with other lunar missions",
+              "Potential geopolitical implications"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "jp",
+      "outlets": [
+        {
+          "article": {
+            "id": "0640439fd1b358f6",
+            "country": "jp",
+            "outlet": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3lxcmRMbDljeDFZNHYwal9obS0wZnZQWU5jUzctWFQtYW9XMmF0aTdYeDJCYXZ5YUUwN1lMQUZiRThUYUthVDJVYzBsWjFBb1RhXzgxaUlsTlRaQVBVS2N1ejliN21ac2tmcF9TVjhkU1V3aXBOUnZmQzBScEZRbUNxNkZHLUcxcTlBVk5JSjRKQQ?oc=5",
+            "headline": "India lands spacecraft on the moon",
+            "text": "India lands spacecraft on the moon",
+            "language": "en",
+            "published": "Wed, 23 Aug 2023 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "India lands spacecraft on the moon",
+            "translated_text": "India lands spacecraft on the moon",
+            "key_claims": [
+              {
+                "text": "India lands spacecraft on the moon",
+                "quote": "India lands spacecraft on the moon"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "matter_of_fact",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "The excerpt does not mention any economic aspects."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security implications are discussed."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No reference to human impact or casualties."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic context is provided."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability or responsibility is addressed."
+              },
+              {
+                "theme": "innovation",
+                "score": 80,
+                "quote": "India lands spacecraft on the moon",
+                "rationale": "The claim highlights a technological achievement in space exploration."
+              }
+            ],
+            "omitted": [
+              "Details about the mission’s objectives",
+              "International reactions or collaborations",
+              "Scientific significance of the landing",
+              "Funding and cost information",
+              "Future plans for lunar exploration"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    },
+    {
+      "country": "in",
+      "outlets": [
+        {
+          "article": {
+            "id": "f7692fbeeca5bff7",
+            "country": "in",
+            "outlet": "ABP News",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWG83OU5KZVFfNk55d0NGTFdhb1RZTXdyVmhhNDJqLW5mQUVkY25qZERoTkk3T0hBYWJHNDA2MldPNUMxLW5WcGpIeVFoWS1oYUJyVVQ1cF9hTEpETHZzNXp3bVM2dEhwVDE5UEdpUkc1UnVfTktTSDJVckIwNW9oSW5VV2tPVS1ZeExYWGZyZnhXQmdNSkxwXzJob0ZHSjJKeE54QnA1UlhOMkNueHRB0gG0AUFVX3lxTE1wdDRrNTMwZzVhM094QlZBd2pTQnVIem9tcGMyR0tjT1B5Vm9jNmlwY1lVRWdrQWNhNi1vOV83Si1QS1RGdFdSTFdRUTVxTkNDckNrTHV3YW1TZzZOTGgxZTQ4andjSHA2LVphWHRSZlZFLTlFdWE5NGt0Qnd6Tm5BdE5ObktrU2Z0ajZnMnl3ZWZNS2FtS1JFY25tM1hac0Rvdlk3NFA1bm4wclZOYzBORnB3Tw?oc=5",
+            "headline": "Chandrayaan 3 Landing: चंद्रयान 3 की लैंडिंग से पहले देखें ISRO में कैसा है नजारा?",
+            "text": "Chandrayaan 3 Landing: चंद्रयान 3 की लैंडिंग से पहले देखें ISRO में कैसा है नजारा?",
+            "language": "hi",
+            "published": "Wed, 23 Aug 2023 07:00:00 GMT",
+            "coverage": "headline",
+            "retrieval": "Google News RSS; edition is not outlet nationality"
+          },
+          "framing": {
+            "translated_headline": "Chandrayaan 3 Landing: See what the scene looks like at ISRO before the Chandrayaan 3 landing?",
+            "translated_text": "Chandrayaan 3 Landing: See what the scene looks like at ISRO before the Chandrayaan 3 landing?",
+            "key_claims": [
+              {
+                "text": "See what the scene looks like at ISRO before the Chandrayaan 3 landing.",
+                "quote": "चंद्रयान 3 की लैंडिंग से पहले देखें ISRO में कैसा है नजारा?"
+              }
+            ],
+            "loaded_words": [],
+            "blamed": [],
+            "praised": [],
+            "tone": "celebratory",
+            "themes": [
+              {
+                "theme": "economy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No economic aspect mentioned."
+              },
+              {
+                "theme": "security",
+                "score": 0,
+                "quote": "",
+                "rationale": "No security aspect mentioned."
+              },
+              {
+                "theme": "human_cost",
+                "score": 0,
+                "quote": "",
+                "rationale": "No mention of human cost."
+              },
+              {
+                "theme": "diplomacy",
+                "score": 0,
+                "quote": "",
+                "rationale": "No diplomatic aspect mentioned."
+              },
+              {
+                "theme": "accountability",
+                "score": 0,
+                "quote": "",
+                "rationale": "No accountability discussion."
+              },
+              {
+                "theme": "innovation",
+                "score": 70,
+                "quote": "चंद्रयान 3 की लैंडिंग",
+                "rationale": "Emphasizes the upcoming Chandrayaan‑3 landing, highlighting a space‑technology achievement."
+              }
+            ],
+            "omitted": [
+              "Technical details of the mission",
+              "Scientific objectives and expected outcomes",
+              "Broader implications for India's space program"
+            ],
+            "confidence": 0.4
+          },
+          "method": "groq"
+        }
+      ],
+      "status": "ready",
+      "message": "Pre-fetched Google News edition headline; AI analysis cached"
+    }
+  ],
+  "synthesis": {
+    "summary": [
+      {
+        "text": "India’s Chandrayaan‑3 probe landed on the Moon, achieving the nation’s first soft lunar landing.",
+        "source_ids": [
+          "0d8083769c88747e",
+          "a14b93c26bb84962",
+          "696a28ff352d3eda",
+          "4b1acc51912df58a",
+          "0640439fd1b358f6",
+          "f7692fbeeca5bff7"
+        ]
+      },
+      {
+        "text": "The landing site was near the Moon’s south pole, a region of scientific interest.",
+        "source_ids": [
+          "0d8083769c88747e"
+        ]
+      },
+      {
+        "text": "Outlets called the event a historic milestone for India’s space exploration.",
+        "source_ids": [
+          "0d8083769c88747e"
+        ]
+      },
+      {
+        "text": "The reports focus on the landing success but leave out details about the mission’s scientific goals, international partnerships, and funding.",
+        "source_ids": [
+          "a14b93c26bb84962",
+          "696a28ff352d3eda",
+          "0640439fd1b358f6"
+        ]
+      }
+    ],
+    "simple_summary": [
+      {
+        "text": "India’s Chandrayaan‑3 landed on the Moon.",
+        "source_ids": [
+          "0d8083769c88747e",
+          "a14b93c26bb84962",
+          "696a28ff352d3eda",
+          "4b1acc51912df58a",
+          "0640439fd1b358f6",
+          "f7692fbeeca5bff7"
+        ]
+      },
+      {
+        "text": "It landed near the Moon’s south pole.",
+        "source_ids": [
+          "0d8083769c88747e"
+        ]
+      },
+      {
+        "text": "People say it’s a historic win for India.",
+        "source_ids": [
+          "0d8083769c88747e"
+        ]
+      },
+      {
+        "text": "The news didn’t say why the mission matters, who helped, or how much it cost.",
+        "source_ids": [
+          "a14b93c26bb84962",
+          "696a28ff352d3eda",
+          "0640439fd1b358f6"
+        ]
+      }
+    ],
+    "clusters": [
+      {
+        "claim": "Chandrayaan‑3 successfully landed on the Moon.",
+        "status": "shared",
+        "source_ids": [
+          "0d8083769c88747e",
+          "a14b93c26bb84962",
+          "696a28ff352d3eda",
+          "4b1acc51912df58a",
+          "0640439fd1b358f6",
+          "f7692fbeeca5bff7"
+        ],
+        "note": "All six outlets reported the landing as a success."
+      },
+      {
+        "claim": "The landing took place near the Moon’s south pole.",
+        "status": "single_source",
+        "source_ids": [
+          "0d8083769c88747e"
+        ],
+        "note": "Only the Science AAAS article specified the south‑pole location."
+      },
+      {
+        "claim": "The landing is described as a historic achievement for India.",
+        "status": "single_source",
+        "source_ids": [
+          "0d8083769c88747e"
+        ],
+        "note": "The phrase “makes history” appears only in the Science AAAS coverage."
+      }
+    ],
+    "missing_voices": [
+      {
+        "perspective": "International reactions and collaboration",
+        "why_it_matters": "Knowing how other countries and space agencies view the mission shows its global significance and any cooperative aspects that are omitted.",
+        "source_ids": [
+          "a14b93c26bb84962",
+          "0640439fd1b358f6"
+        ]
+      },
+      {
+        "perspective": "Scientific objectives and expected findings of Chandrayaan‑3",
+        "why_it_matters": "Details about experiments and goals are needed to assess the mission’s contribution to lunar science.",
+        "source_ids": [
+          "696a28ff352d3eda",
+          "4b1acc51912df58a",
+          "0640439fd1b358f6"
+        ]
+      },
+      {
+        "perspective": "Funding, cost, and economic impact of the mission",
+        "why_it_matters": "Understanding the financial scale helps evaluate the sustainability and priorities of India’s space program.",
+        "source_ids": [
+          "0d8083769c88747e",
+          "f7692fbeeca5bff7"
+        ]
+      }
+    ],
+    "caveat": "These points are based only on the six headline excerpts provided; they do not represent the full coverage or editorial stance of the outlets, and missing information may be present elsewhere."
+  },
+  "notices": [
+    "Cached demo: real RSS headlines with pre-generated Groq analysis. No live calls.",
+    "One outlet per edition. A feed edition is not a country’s opinion.",
+    "Headline-only evidence: confidence capped at 45%. Omission means not visible here, not deliberately hidden."
+  ]
+}

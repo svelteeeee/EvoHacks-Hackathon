@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cop28",
+    "query": "COP28",
+    "title": "The fossil fuel turning point",
+    "date": "13 Dec 2023",
+    "tag": "CLIMATE & DIPLOMACY",
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ]
+  },
+  {
+    "id": "moon",
+    "query": "Chandrayaan-3",
+    "title": "One Moon. Many meanings.",
+    "date": "23 Aug 2023",
+    "tag": "SCIENCE & IDENTITY",
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ]
+  },
+  {
+    "id": "olympics",
+    "query": "Paris Olympics",
+    "title": "A city opens to the world",
+    "date": "26 Jul 2024",
+    "tag": "CULTURE & HUMAN COST",
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ]
+  }
+]

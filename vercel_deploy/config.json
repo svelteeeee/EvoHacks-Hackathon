@@ -1,0 +1,87 @@
+{
+  "countries": {
+    "us": {
+      "name": "United States",
+      "language": "en",
+      "flag": "🇺🇸"
+    },
+    "gb": {
+      "name": "United Kingdom",
+      "language": "en",
+      "flag": "🇬🇧"
+    },
+    "fr": {
+      "name": "France",
+      "language": "fr",
+      "flag": "🇫🇷"
+    },
+    "de": {
+      "name": "Germany",
+      "language": "de",
+      "flag": "🇩🇪"
+    },
+    "jp": {
+      "name": "Japan",
+      "language": "ja",
+      "flag": "🇯🇵"
+    },
+    "in": {
+      "name": "India",
+      "language": "hi",
+      "flag": "🇮🇳"
+    }
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "hi": "हिन्दी",
+    "ja": "日本語"
+  },
+  "demos": [
+    {
+      "id": "cop28",
+      "query": "COP28",
+      "title": "The fossil fuel turning point",
+      "date": "13 Dec 2023",
+      "tag": "CLIMATE & DIPLOMACY",
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": "moon",
+      "query": "Chandrayaan-3",
+      "title": "One Moon. Many meanings.",
+      "date": "23 Aug 2023",
+      "tag": "SCIENCE & IDENTITY",
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": "olympics",
+      "query": "Paris Olympics",
+      "title": "A city opens to the world",
+      "date": "26 Jul 2024",
+      "tag": "CULTURE & HUMAN COST",
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ]
+    }
+  ],
+  "keys": {
+    "groq": false,
+    "news": false,
+    "audio": false
+  },
+  "default_mode": "demo",
+  "static": true
+}
